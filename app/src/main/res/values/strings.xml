@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ImageSearch</string>
+    <string name="main_empty_text">검색결과가 없습니다.</string>
+    <string name="main_error_text">error</string>
+    <string name="main_retry_text">retry</string>
+</resources>
